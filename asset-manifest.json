@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/aniket-marriage-gift/static/css/main.e6c13ad2.css",
-    "main.js": "/aniket-marriage-gift/static/js/main.67964c7e.js",
+    "main.css": "/aniket-marriage-gift/static/css/main.b81668ca.css",
+    "main.js": "/aniket-marriage-gift/static/js/main.08e06fdc.js",
+    "static/media/banner.jpg": "/aniket-marriage-gift/static/media/banner.eced4aafed0c2bd83089.jpg",
     "index.html": "/aniket-marriage-gift/index.html",
-    "main.e6c13ad2.css.map": "/aniket-marriage-gift/static/css/main.e6c13ad2.css.map",
-    "main.67964c7e.js.map": "/aniket-marriage-gift/static/js/main.67964c7e.js.map"
+    "main.b81668ca.css.map": "/aniket-marriage-gift/static/css/main.b81668ca.css.map",
+    "main.08e06fdc.js.map": "/aniket-marriage-gift/static/js/main.08e06fdc.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.67964c7e.js"
+    "static/css/main.b81668ca.css",
+    "static/js/main.08e06fdc.js"
   ]
 }

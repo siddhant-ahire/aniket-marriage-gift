@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aniket-marriage-gift/static/css/main.073c9b0a.css",
+    "main.js": "/aniket-marriage-gift/static/js/main.ed0b3a4b.js",
+    "index.html": "/aniket-marriage-gift/index.html",
+    "main.073c9b0a.css.map": "/aniket-marriage-gift/static/css/main.073c9b0a.css.map",
+    "main.ed0b3a4b.js.map": "/aniket-marriage-gift/static/js/main.ed0b3a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ed0b3a4b.js"
+  ]
+}
